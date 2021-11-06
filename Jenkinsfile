@@ -9,7 +9,7 @@ pipeline{
         steps
         {
             git credentialsId: 'GitHub',
-            url: 'https://github.com/rajputravisingh95/docker-ansible.git'
+            url: 'https://github.com/ravisinghrajput95/docker-ansible.git'
         }
         }
         
